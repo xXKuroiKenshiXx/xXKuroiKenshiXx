@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0080,50:7928ca,100:00d4ff&height=220&section=header&text=Kuro&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Dev%20%E2%80%A2%20Rust%20%E2%80%A2%20TypeScript%20%E2%80%A2%20Gamer&descAlignY=60&descAlign=50" width="100%"/>
 
 <a href="https://github.com/xXKuroiKenshiXx">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=FF0080&center=true&vCenter=true&multiline=true&width=800&height=90&lines=%C2%A1Hola%2C+soy+Kuro!+%F0%9F%91%8B;Creando+herramientas+en+Rust+%F0%9F%A6%80;Programando%2C+jugando+y+dise%C3%B1ando+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=FF0080&center=true&vCenter=true&width=800&height=50&lines=%C2%A1Hola%2C+soy+Kuro!+%F0%9F%91%8B;Creando+herramientas+en+Rust+%F0%9F%A6%80" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -29,6 +29,14 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
+
+---
+
+<div align="center">
+
+### 🎓 Educación
+
+Estudiante en la **UNER** (Universidad Nacional de Entre Ríos)
 
 ---
 
